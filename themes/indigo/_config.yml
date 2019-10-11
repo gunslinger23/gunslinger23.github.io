@@ -98,7 +98,7 @@ less:
 
 # 以下评论插件开启一个即可
 # 是否开启 disqus
-disqus_shortname: true
+disqus_shortname: false
 # 是否开启友言评论, 填写友言用户id
 uyan_uid: false
 # 是否使用 gitment，https://github.com/imsun/gitment
@@ -110,7 +110,11 @@ gitment: false
 #   client_secret:
 
 # use gitalk://github.com/gitalk/gitalk
-gitalk: false
+gitalk:
+  owner: gunslinger23
+  repo: blog-gitalk
+  client_id: a58bd3d195be722a63dd
+  client_secret: 086d15cf6ba78425d43933c2bae019f4c2955dad
 #  owner: 
 #  repo: 
 #  client_id: 
