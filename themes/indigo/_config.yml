@@ -13,13 +13,13 @@ menu:
     url: /
   archives:
     text: 存档
-    url: /archives
+    url: /archives/
   tags:
     text: 标签
-    url: /tags
+    url: /tags/
   th-list:
     text: 分类
-    url: /categories
+    url: /categories/
   github:
     url: https://github.com/gunslinger23
     target: _blank
