@@ -2,8 +2,10 @@
 title: 记近期Rancher中的采坑
 date: 2019-10-19 20:30:33
 tags:
-- Rancher
-- Kubernetes
+  - Rancher
+  - Kubernetes
+categories:
+  - 技术
 ---
 
 近期由于业务需求，需要在Windows系统上部署Rancher，由于Windows中的Docker比较多坑。在解决了问题后顺便记录一下填充一下博客😔
